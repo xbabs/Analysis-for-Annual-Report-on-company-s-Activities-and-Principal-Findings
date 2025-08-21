@@ -1,4 +1,4 @@
-# Annual Report Analysis (SQL)
+# Annual Report Analysis 
 
 SQL analysis with ERD and presentation deck.
 
